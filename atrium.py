@@ -11,7 +11,7 @@ txt = pygame.image.load(path + 'txt.png')
 txt_selected = pygame.image.load(path + 'txt_selected.png')
 folder = pygame.image.load(path + 'folder.png')
 
-txtwindow = pygame.image.load(path + 'txtwindow.png') # i didnt make the texture for the window yet. will do soon
+txtwindow = pygame.image.load(path + 'txtwindow.png') # i didnt make the texture for the window yet. will do soon (update : i did already)
 
 sys_font = pygame.freetype.Font(path + 'font/PressStart2P.ttf', 9) # font is 11px tall.
 
